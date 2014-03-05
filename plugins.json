@@ -3,5 +3,10 @@
     "description": "Embeds Youtube videos from links",
     "author": "David Petersen",
     "gist": "thedjpetersen/9140203"
+  },
+  "linkify": {
+    "description": "Create embedded links",
+    "author": "David Petersen",
+    "gist": "thedjpetersen/9265479"
   }
 ]
