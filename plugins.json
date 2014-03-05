@@ -1,4 +1,4 @@
-[
+{
   "embedYoutube": {
     "description": "Embeds Youtube videos from links",
     "author": "David Petersen",
@@ -9,4 +9,4 @@
     "author": "David Petersen",
     "gist": "thedjpetersen/9265479"
   }
-]
+}
