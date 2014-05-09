@@ -1,4 +1,9 @@
 {
+  "embedImage": {
+    "description": "Embeds images from links",
+    "author": "David Petersen",
+    "gist": "thedjpetersen/dd420dd13d9c5c35ba31"
+  },
   "embedYoutube": {
     "description": "Embeds Youtube videos from links",
     "author": "David Petersen",
